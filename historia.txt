@@ -3,3 +3,5 @@ Esta es mi historia, me llamo Jose Jimenez
 Tengo 30.6 años y estoy aprendiendo a programar.
 
 Por ahora, estoy haciendo la carrera de desarrollo web en Platzi.
+
+Especificamente voy por el curso de Git y Github de Freddy Vega
